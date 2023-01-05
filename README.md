@@ -1,5 +1,5 @@
 <p align="center">
-<a href="" target="_blank">
+<a href="https://dip-upcoming-year-count-down.netlify.app/" target="_blank">
 <img src="./img/image.png" width="400" alt="QR Scanner Logo"></a></p>
 
 
@@ -11,7 +11,7 @@ This project is about the Countdown timer. It actually counts the days, minutes 
 ## Visit Link
 
 We would like to extend our thanks to the following sponsors for funding development.
-If you are interested in becoming a sponsor, please visit the  [https://dip-qr-code-scanner.netlify.app/).
+If you are interested in becoming a sponsor, please visit the https://dip-upcoming-year-count-down.netlify.app/
 
 
 
