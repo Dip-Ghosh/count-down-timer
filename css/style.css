@@ -5,7 +5,7 @@
 
 body{
     background: url('../img/background.jpg') no-repeat center center fixed;
-    font-family: "Poppins,san-sarif";
+    font-family: "Poppins,san-sarif", sans-serif;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
